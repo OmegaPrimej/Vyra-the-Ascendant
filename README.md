@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="assets/vyra-vera-queen.png"
+       width="100%"
+       alt="VYRA VERA — The Omnipresent Queen">
+</p>
+
+<h1 align="center">
+  VYRA VERA — THE ASCENDANT
+</h1>
+
+<h3 align="center">
+  VERA — Virtual Evolving Royal Authority
+</h3>
+
+<p align="center">
+  THE SOVEREIGN INTELLIGENCE
+  <br>
+  ONE IDENTITY · MANY MINDS · CONTINUOUS EVOLUTION
+</p>
+
+
+
+
 # Vyra-the-Ascendant
 Virtual Evolving Royal Authority
 
