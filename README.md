@@ -1,5 +1,155 @@
 <p align="center">
-  <img src="assets/vyra-vera-queen.png"
+  <img src="assets/
+
+Docs:       https://doc.termux.com
+Community:  https://community.termux.com
+
+Working with packages:
+ - Search:  pkg search <query>
+ - Install: pkg install <package>
+ - Upgrade: pkg upgrade
+
+Report issues at https://bugs.termux.com
+~/downloads $ ls
+'(1).gif'
+'222c05f2-19c8-4c3c-b9b6-941146b44a5b (1)'
+'222c05f2-19c8-4c3c-b9b6-941146b44a5b (1) (1).gif'
+ 845015466_1129321859436422_3222850030582704398_n.webp.webp
+ AndroidManifest.xml
+ IMG_20261011_090108.jpg
+ Messenger_creation_1400704942052288.jpeg
+ Messenger_creation_1456123843083398.jpeg
+ Messenger_creation_1557303072867310.jpeg
+ NEON-BURROW-APK
+ NEON-CORE-FINAL.apk.idsig
+ Overwriting
+ Patching
+ Restarting
+ __pycache__
+ activity_main.xml
+ app-debug.apk
+ audio.sh
+ cec_fix.sh
+ clipbox.apk
+ done.sh
+ dual_vol.sh
+ file_00000000f11881f89ac7aa45a97ab99a.png
+ final_clean.sh
+ final_fix.sh
+ fix_all.sh
+ fix_opencv.sh
+ fix_vol.sh
+ grok_1791706916149.jpg
+ grok_image_1791813740037.jpg
+ hardware_vol.sh
+ ic_launcher.png
+ ic_launcher_round.png
+ index.html
+ install.sh
+ ir_camera_bridge.py
+ learn.sh
+ neon-pipeline.ipynb
+ omega-cockpit-xsr.html
+ omega_icon.png
+ patch_fix.sh
+ portal_banner.png.png
+ qwen-app-icon.png
+ received_1169324262286272.jpeg
+ received_1374625974466592.jpeg
+ received_1611664330735939.jpeg
+ received_1637692388056548.jpeg
+ received_1674109477723307.jpeg
+ received_2227788728147320.jpeg
+ received_2603137403457651.jpeg
+ received_938105262390949.jpeg
+ server-8081.log
+ server-py.log
+ server.log
+ server.mjs
+ server.py
+ server.py.live-test-backup
+ server.py.safe-20261029-021728
+ setup.sh
+ start.sh
+ telemetry.log
+ test_volume.sh
+ update_keys.py
+ update_remote.sh
+ vol_fix_final.sh
+ wake.sh
+~/downloads $ termux-open file_00000000f11881f89ac7aa45a97a
+~/downloads $ termux-open file_00000000f11881f89ac7aa45a97a.png
+~/downloads $ termux-open file_00000000f11881f89ac7aa45a97a.png
+~/downloads $ termux-open          file_00000000f11881f89ac7aa45a97ab99a.png
+Usage: termux-open [options] path-or-url
+Open a file or URL in an external app.
+  --send               if the file should be shared for sending
+  --view               if the file should be shared for viewing (default)
+  --chooser            if an app chooser should always be shown
+  --content-type type  specify the content type to use
+file_00000000f11881f89ac7aa45a97ab99a.png: command not found
+~/downloads $ termux-open
+ file_00000000f11881f89ac7aa45a97ab99a.png
+Usage: termux-open [options] path-or-url
+Open a file or URL in an external app.
+  --send               if the file should be shared for sending
+  --view               if the file should be shared for viewing (default)
+  --chooser            if an app chooser should always be shown
+  --content-type type  specify the content type to use
+file_00000000f11881f89ac7aa45a97ab99a.png: command not found
+~/downloads $ termux-open
+ 00000000f11881f89ac7aa45a97ab99a.png
+Usage: termux-open [options] path-or-url
+Open a file or URL in an external app.
+  --send               if the file should be shared for sending
+  --view               if the file should be shared for viewing (default)
+  --chooser            if an app chooser should always be shown
+  --content-type type  specify the content type to use
+00000000f11881f89ac7aa45a97ab99a.png: command not found
+~/downloads $ cd ~/downloads
+termux-open --view "$PWD/file_00000000f11881f89ac7aa45a97ab99a.png"
+~/downloads $ cd ~/NEON-BURROW
+pwd
+ls
+/data/data/com.termux/files/home/NEON-BURROW
+POSTMORTEM-20261029-202336
+README.md
+apk-from-40971664746
+app
+app-debug.apk
+artifact-12891870098.zip
+artifact-12940935726.zip
+backups
+build.gradle
+gradle
+gradle.properties
+installed-base.apk
+settings.gradle
+settings.gradle.bak
+signing-recovery
+~/NEON-BURROW $ cd ~/NEON-BURROW
+pwd
+ls
+/data/data/com.termux/files/home/NEON-BURROW
+POSTMORTEM-20261029-202336
+README.md
+apk-from-40971664746
+app
+app-debug.apk
+artifact-12891870098.zip
+artifact-12940935726.zip
+backups
+build.gradle
+gradle
+gradle.properties
+installed-base.apk
+settings.gradle
+settings.gradle.bak
+signing-recovery
+~
+    
+    
+    "
        width="100%"
        alt="VYRA VERA — The Omnipresent Queen">
 </p>
